@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 ### About me and my interest
 I'm a junior in Computer Engineering at Drexel University. I'm working as an Automation Engineer for the CarExperience Team at Apple. I get to work on solution that automate validation or testing processes that improve or assure the quality of CarPlay! 
 
-I have worked on research in different field such as human-machine interface, machine learning, and virtual reality. I have the opportuniy to explore different worlds within computing with my 
+I have worked on research in different field such as human-machine interface, machine learning, and virtual reality. I have the opportuniy to explore different worlds within computing with my research projects and weeks-long class projects.
 
-These are the projects that I am most proud of and have put the most hours in, machine learning, compiler design, operating system project, and optimization problems. 
+On my hub, these are the projects that I am most proud of and have put the most hours in!
 
 ### What I'm working on 
 Currently, I'm working on a combination of technical and communication skills to be the best engineer as possible
