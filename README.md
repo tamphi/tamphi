@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Tam Phi
 <!--
 **tamphi/tamphi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me and my interest
+I'm a junior in Computer Engineering at Drexel University. I'm working as an Automation Engineer for the CarExperience Team at Apple. I get to work on solution that automate validation or testing processes that improve or assure the quality of CarPlay! 
+
+I have worked on research in different field such as human-machine interface, machine learning, and virtual reality and I have the opportuniy to explore different worlds within computing.
+
+### What I'm working on 
+Currently, I'm working on a combination of technical and communication skills to be the best engineer as possible
