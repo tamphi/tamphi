@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me and my interest
-I'm a junior in Computer Engineering at Drexel University. I'm working as an Automation Engineer for the CarExperience Team at Apple. I get to work on solution that automate validation or testing processes that improve or assure the quality of CarPlay! 
+I'm a junior in Computer Engineering at Drexel University. I'm working as an Automation Engineer intern for the CarExperience Team at Apple. I get to work on solution that automate validation or testing processes that improve or assure the quality of CarPlay.
 
 I have worked on research in different field such as human-machine interface, machine learning, and virtual reality. I have the opportuniy to explore different worlds within computing with my research projects and weeks-long class projects.
 
