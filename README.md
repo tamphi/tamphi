@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me and my interest
-I recently graduated from accelerated program in BS/MS Computer Engineering at Drexel University. I interned as a Software Engineer for the Car Experience QA Team at Apple. I got the opportunity to work on cool projects and meet awesome people. After my internship, I returned to school to complete my Master's Thesis in machine learning for underwater sound classification and localization. I spent 9 months on a transformer architecture for underwater ship sounds identification. If you're interested in my thesis, please reach out and I'd be more than happy to provide a copy. 
+I recently graduated from accelerated program in BS/MS Computer Engineering at Drexel University. I interned as a Software Engineer for the Car Experience QA Team at Apple. I got the opportunity to work on cool projects and meet awesome people. After my internship, I returned to school to complete my Master's Thesis in machine learning for underwater sound classification and localization. I spent 9 months on a transformer architecture for underwater ship sounds identification. If you're interested in learning more about my thesis, please reach out and I'd be more than happy to provide a copy. 
 
 I have worked on research in different field such as human-machine interface, machine learning, and virtual reality. I have the opportuniy to explore different worlds within computing with my research projects and weeks-long class projects.
 
