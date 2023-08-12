@@ -21,4 +21,4 @@ I have worked on research in different field such as human-machine interface, ma
 On my hub, these are the projects that I am most proud of and have put the most hours in. 
 
 ### What I'm working on 
-Currently, I'm working on a combination of technical and communication skills to be the best engineer as possible
+Currently, I'm working on a combination of technical and communication skills to be a great problem solver
