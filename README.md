@@ -21,4 +21,4 @@ I have worked on research in different field such as human-machine interface, ma
 On my hub, these are the projects that I am most proud of and have put the most hours in. 
 
 ### What I'm working on 
-Problems that every software engineer goes through ... leetcoding
+Underwater sound localization and sparsity of acoustic signals in underwater environment. Also,problems that every software engineer goes through ... leetcoding
