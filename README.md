@@ -25,5 +25,5 @@ What I have worked on:
 
 On my hub, these are the projects that I am most proud of and have put the most hours in. 
 
-### What I'm working on 
+### Currently working on
 Underwater sound localization and addressing the sparsity of acoustic signals in underwater environment. Also, problems that every software engineer goes through ... leetcoding
