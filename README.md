@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me and my interest
-I recently graduated from Drexel University with a BS/MS in Computer Engineering. I interned as a Software Engineer for the Car Experience QA Team at Apple. After my internship, I returned to school to complete my Master's Thesis in machine learning for underwater sound classification and localization. I spent 9 months on a transformer architecture for underwater ship sounds identification. If you're interested in learning more about my thesis, please reach out and I'd be more than happy to provide a copy. 
+I recently graduated from Drexel University with a BS/MS in Computer Engineering. I interned as a Software Engineer for the Car Experience QA Team at Apple. After my internship, I returned to school to complete my Master's Thesis in machine learning for underwater sound classification and localization. 
 
-I have worked on research in different field such as human-machine interface, machine learning, and virtual reality. I have the opportuniy to explore different worlds within computing with my co-ops, research projects and weeks-long class projects.
+What I have worked on:
+- Transformer and deep neural network models
+- Human-machine interaction
+- Embedded system for robotic applications
+- Low-level programming and design: compiler, CUDA multithreading, linux shell
+- Acoustic and biomedical signal processing
 
 On my hub, these are the projects that I am most proud of and have put the most hours in. 
 
