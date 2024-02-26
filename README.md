@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me and my interest
-I'm a recent BS/MS Computer Engineering graduate. I interned as a Software Engineer for the Car Experience QA Team at Apple. After my internship, I returned to school to complete my Master's Thesis in machine learning for underwater sound classification and localization. 
+I'm a recent BS/MS Computer Engineering graduate. I interned as a Software Engineer for the Car Experience QA Team at Apple. After my internship, I returned to school to complete my Master's Thesis in machine learning for underwater sound classification and localization. If you're interested in learning more about any of projects or thesis, please reach out!
 
 What I have worked on:
 - Transformer and deep neural network models
