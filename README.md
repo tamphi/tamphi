@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 I’m currently working on ... operating system and I/O stability at CoreOS, Apple
+# 🔭 I’m currently working on ... operating system and I/O stability at CoreOS, Apple
 
-## 🌱 I’m currently learning ... 😄
+# 🌱 I’m currently learning ... 😄
