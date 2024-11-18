@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ... operating system and I/O stability at CoreOS, Apple.
+- 🌱 I’m currently learning ... 😄
